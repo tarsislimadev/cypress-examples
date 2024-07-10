@@ -4,8 +4,5 @@
   "scripts": {
     "start": "node ./index.js"
   },
-  "license": "MIT",
-  "devDependencies": {
-    "cypress": "^13.13.0"
-  }
+  "license": "MIT"
 }
