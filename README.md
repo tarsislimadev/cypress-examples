@@ -10,12 +10,16 @@
 
 ```sh
 git clone https://github.com/brtmvdl/cypress-examples.git
+
+cd ./cypress-examples/
 ```
 
 ## how to use
 
 ```sh
-. ./env/up.sh app
+cd src/app/
+
+npx cypress open
 ```
 
 ## author
